@@ -1,0 +1,4 @@
+﻿  2048 project.cpp
+C:\Users\romas\source\repos\2048 project\2048 project\2048 project.cpp(84,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\romas\source\repos\2048 project\2048 project\2048 project.cpp(151): warning C4715: 'windowGame': not all control paths return a value
+  2048 project.vcxproj -> C:\Users\romas\source\repos\2048 project\x64\Debug\2048 project.exe
